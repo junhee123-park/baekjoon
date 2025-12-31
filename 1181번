@@ -3,3 +3,4 @@
 아래는 쳇지피티 설명.. 
 https://chatgpt.com/g/g-p-6954181f83e081919128de6d410573f5-baegjun/c/695565b6-b6a0-8321-ab1f-4c0ee0f9afba
  %d에서는 엔터무시, %c는 무시하지 않아서 필요. cin도 무시 근데 cin>>c.get()하면 또 무시하지 않음.
+qsort함수는 c용, sort함수는 c++용..거의 항상 sort함수가 더 좋다.//거의 정렬나오면 얘라고 보면 됨
